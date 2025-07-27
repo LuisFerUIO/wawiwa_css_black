@@ -1,4 +1,5 @@
 🌙 Modo Oscuro para Blossom – Script para Tampermonkey
+
 Este repositorio contiene un script para aplicar un tema oscuro a la plataforma Blossom, ideal para trabajar durante la noche. Aunque Blossom ofrece un modo oscuro de forma nativa, en ocasiones no se encuentra disponible o activo.
 
 🔧 Instrucciones de uso:
@@ -14,6 +15,7 @@ Guarda y activa el script.
 ---
 
 🌙 Dark Mode for Blossom – Tampermonkey Script
+
 This repository provides a script to enable a dark theme on the Blossom platform, perfect for nighttime work. Although Blossom includes a native dark mode, it is occasionally unavailable or inactive.
 
 🔧 How to use:
